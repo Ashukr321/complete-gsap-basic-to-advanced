@@ -25,3 +25,7 @@ html , body{
   background-color:#125B9A;
   box-shadow: .5px .5px 2px #000;
 }
+
+--webkit-scrollbar{
+  display: none;
+}
